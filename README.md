@@ -1,7 +1,7 @@
 - Hi, I’m @GiBorelli
 - I’m interested in Computer Science
 - I’m currently learning assembly, C and R
-- How to reach me ...
+- How to reach me: ✉️ giovanaborelli.uni@gmail.com
 - Pronouns: she/her
 
 <!---
